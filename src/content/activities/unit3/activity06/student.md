@@ -87,3 +87,7 @@ function touchStarted() {
 ```
 Explicacion
 
+1. ¿Cómo se comunican los clientes con el servidor?
+esto se hace a traves dewebsockets, usando socket.io, cuando el cliente se conecta se registra en el servidor ( io.on(conection)) los clientes mandan mensajes con un socket.emit y el server lo reenvia con un io.emit
+
+2. ¿Cómo se comunican los clientes entre sí?
