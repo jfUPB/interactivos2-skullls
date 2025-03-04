@@ -91,3 +91,23 @@ Explicacion
 esto se hace a traves dewebsockets, usando socket.io, cuando el cliente se conecta se registra en el servidor ( io.on(conection)) los clientes mandan mensajes con un socket.emit y el server lo reenvia con un io.emit
 
 2. ¿Cómo se comunican los clientes entre sí?
+el server se encarga de esto reenviando entre cliente y cliente el mensaje
+
+3.¿Qué tipo de mensajes se envían?
+texto e imagnes pero las imagenes se codifican en base 64
+
+4.¿Qué tipo de datos se envían?
+.yeisons (.json) los cuales tienen estructuras de mensajes=texto e imagenes=base64
+
+5.¿Qué tipo de eventos se generan?
+send-message: Un cliente envía un mensaje
+receive-message: Un cliente recibe un mensaje
+send-image: Un cliente envía una imagen
+receive-image: Un cliente recibe una imagen
+disconnect: Un usuario se desconecta
+
+6.¿Cómo es el flujo de datos entre los clientes y el servidor?
+cliente A envia un mensaje con el socket.emit el server lo coge y lo reenvia con io.emit y el cliente B lo recibe
+
+7.¿Cómo es el flujo de datos entre los clientes?
+Como tal no hay una conexion directa entre cliente y cliente y si la hay no se como hacerla, siempre se esta usando al server como intermediario osea el cliente manda y el servidor lo transmite segun a quien le corresponda el mensaje
