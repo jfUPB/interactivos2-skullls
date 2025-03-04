@@ -10,3 +10,4 @@ Envío de Datos: Facilita la sincronización de información entre clientes, com
 Sincronización de Canvas: Múltiples usuarios pueden dibujar en un mismo canvas compartido
 
 
+### ejemplos
