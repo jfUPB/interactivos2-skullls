@@ -11,3 +11,15 @@ Sincronización de Canvas: Múltiples usuarios pueden dibujar en un mismo canvas
 
 
 ### ejemplos
+
+1️ Compartir Video en Tiempo Real
+Permite transmitir la cámara de un usuario a otros participantes.
+
+2️ Intercambio de Datos (Ejemplo de Coordenadas del Mouse)
+Los usuarios pueden compartir la posición de su cursor en una pantalla compartida.
+
+3️ Dibujo Colaborativo en Canvas
+Múltiples usuarios pueden pintar en un mismo espacio digital.
+
+4️ Transmisión de Audio
+Explorar cómo compartir sonidos o micrófono en una red de pares.
