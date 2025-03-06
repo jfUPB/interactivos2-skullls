@@ -58,3 +58,8 @@ Esta aplicación se puede integrar al proyecto de curso si se está trabajando e
   synth.triggerAttackRelease(data, "8n");
   }
   ```
+Haciendo pruebas con el p5.js aun tengo un problema pero es sencillo de solucionar, y ya carga la pagina 
+
+![image](https://github.com/user-attachments/assets/ebc52449-ba7e-447a-9d3f-146217bad305)
+
+loi siguiente sera hacer pruebas con el servidor
