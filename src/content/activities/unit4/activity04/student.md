@@ -38,3 +38,17 @@ Un TURN server (Traversal Using Relays around NAT) actúa como un intermediario 
 ## ¿Qué es un Signaling Server?
 
 Un signaling server es un servidor que facilita el intercambio inicial de información entre pares para negociar la conexión WebRTC. Aunque WebRTC no define un protocolo específico para la señalización, comúnmente se usa WebSockets o HTTP para esta fase.
+
+## Usos en la aplicacion que propuse
+
+En la aplicación que propusimos previamente para la captura y transmisión de sonido entre clientes en GitHub Codespaces, los conceptos de WebRTC pueden implementarse de la siguiente manera:
+
+Peer Connection: Se utilizaría para establecer la conexión entre los clientes sin necesidad de un servidor intermediario para la transferencia de datos de audio.
+
+Data Channel: Si se necesita intercambiar metadatos o comandos adicionales durante la transmisión, se usará este canal.
+
+Media Stream: Se empleará para capturar y transmitir el audio en tiempo real desde los micrófonos de los usuarios.
+
+ICE Servers: Se configurarán STUN y TURN servers para garantizar que los dispositivos puedan conectarse incluso detrás de firewalls o NATs.
+
+Signaling Server: Se utilizará para negociar la conexión inicial entre los clientes y facilitar el intercambio de credenciales ICE.
