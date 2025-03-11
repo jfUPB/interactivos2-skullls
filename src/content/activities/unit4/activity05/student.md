@@ -1,1 +1,4 @@
 1.Aprendí cómo funciona WebRTC, los diferentes componentes que intervienen en la comunicación en tiempo real y cómo se establecen conexiones peer-to-peer mediante ICE, STUN y TURN servers. También comprendí la importancia del servidor de señalización y el uso de canales de datos y medios.
+2.Los conceptos más fáciles de comprender fueron los relacionados con MediaStream y DataChannel, ya que están directamente relacionados con la transmisión de audio y datos, algo con lo que ya tenía experiencia por los proyectos que realice
+3.Me resultó un poco más complejo entender el proceso de negociación de conexión usando ICE y el papel de los servidores STUN y TURN en la comunicación, especialmente cuando se trata de sortear restricciones de red.
+4.Desarrollé habilidades en la implementación de WebRTC, aunque todavia me falta aprender un poco mas de ella 
