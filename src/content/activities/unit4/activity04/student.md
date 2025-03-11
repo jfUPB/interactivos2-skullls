@@ -11,30 +11,30 @@ Establecimiento de la conexión usando el protocolo ICE (Interactive Connectivit
 Intercambio de medios y datos a través de canales seguros.
 
 
-¿Qué es un Peer Connection?
+## ¿Qué es un Peer Connection?
 
 Una peer connection es el enlace directo entre dos dispositivos que permite la transmisión de datos, audio y video en WebRTC. Se gestiona mediante la API RTCPeerConnection y utiliza diferentes protocolos para negociar la conexión, manejar flujos multimedia y asegurar una comunicación eficiente.
 
-¿Qué es un Data Channel?
+## ¿Qué es un Data Channel?
 
 Un data channel es un canal de comunicación que permite el intercambio de datos arbitrarios entre pares utilizando el protocolo RTCDataChannel. Puede usarse para enviar mensajes, archivos y otros tipos de datos sin necesidad de una conexión de video o audio.
 
-¿Qué es un Media Stream?
+## ¿Qué es un Media Stream?
 
 Un media stream es una secuencia de medios que puede contener múltiples pistas de audio y video. Se maneja mediante la API MediaStream, permitiendo capturar y transmitir contenido desde dispositivos como cámaras y micrófonos.
 
-¿Qué es un ICE Server?
+## ¿Qué es un ICE Server?
 
 Un ICE server (Interactive Connectivity Establishment Server) ayuda a los dispositivos a descubrir la mejor ruta para establecer la conexión peer-to-peer, ya sea mediante STUN o TURN servers. WebRTC utiliza este mecanismo para sortear firewalls y NATs.
 
-¿Qué es un STUN Server?
+## ¿Qué es un STUN Server?
 
 Un STUN server (Session Traversal Utilities for NAT) permite a los dispositivos determinar su dirección IP pública y la forma en que están conectados a Internet. Es útil para ayudar a establecer conexiones directas entre pares cuando están detrás de un NAT.
 
-¿Qué es un TURN Server?
+## ¿Qué es un TURN Server?
 
 Un TURN server (Traversal Using Relays around NAT) actúa como un intermediario en caso de que una conexión directa entre pares no sea posible. En estos casos, retransmite la información, asegurando la comunicación pero con mayor latencia y consumo de recursos.
 
-¿Qué es un Signaling Server?
+## ¿Qué es un Signaling Server?
 
 Un signaling server es un servidor que facilita el intercambio inicial de información entre pares para negociar la conexión WebRTC. Aunque WebRTC no define un protocolo específico para la señalización, comúnmente se usa WebSockets o HTTP para esta fase.
