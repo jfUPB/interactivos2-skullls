@@ -1,0 +1,1 @@
+1.Aprendí cómo funciona WebRTC, los diferentes componentes que intervienen en la comunicación en tiempo real y cómo se establecen conexiones peer-to-peer mediante ICE, STUN y TURN servers. También comprendí la importancia del servidor de señalización y el uso de canales de datos y medios.
