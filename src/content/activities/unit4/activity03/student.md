@@ -62,4 +62,4 @@ Haciendo pruebas con el p5.js aun tengo un problema pero es sencillo de solucion
 
 ![image](https://github.com/user-attachments/assets/ebc52449-ba7e-447a-9d3f-146217bad305)
 
-loi siguiente sera hacer pruebas con el servidor
+lo siguiente sera hacer pruebas con el servidor
