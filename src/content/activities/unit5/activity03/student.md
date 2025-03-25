@@ -8,8 +8,10 @@ el calular nos da la facilidad de tener todos los recursos que necesitamos, por 
 ¿Qué pasa durante la experiencia?
 Las visuales responden en tiempo real a la intensidad del sonido y la energía del público. En lugar de formas abstractas, se generan figuras humanas que se transforman según la música y el movimiento. Un control remoto permite modificar parámetros visuales en vivo.
 
+![image](https://github.com/user-attachments/assets/f88adb30-4975-4b22-95a5-c8b29eabea19)
+
 ¿Qué pasa después de la experiencia?
-Se generan clips o imágenes de los momentos más intensos para que el público los comparta. También se analizan los datos de interacción para mejorar futuras presentaciones.
+al ser un evento unico es mas facil poder contar con recuerdos mas personalizados y tener conciencia en la interactividad que has tenido en este
 
 ¿Cómo se conecta la narrativa con la experiencia?
 La sinestesia se vuelve tangible al traducir la música en imágenes expresivas y humanas, reforzando la conexión emocional entre los sonidos y el público.
