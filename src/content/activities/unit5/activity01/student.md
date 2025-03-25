@@ -1,2 +1,5 @@
-El arte generativo ha emergido como una nueva forma de expresión artística que combina la creatividad humana con el poder de la tecnología. Ben Heim, artista y compositor audiovisual australiano, expone su visión sobre este movimiento a través de su trayectoria y experiencias en RECONVENE 2023. En su conferencia, Heim destaca la evolución del arte hacia medios generativos en tiempo real, lo que permite la interconexión entre visuales, sonidos e interacciones del publico.
-Desde mi vision se
+ arte generativo es una forma de creación que combina reglas programadas con la interacción en tiempo real. Ben Heim, artista audiovisual, explica esta idea comparándola con el crecimiento de un árbol: su código genético guía su desarrollo, pero factores externos como el viento influyen en su forma. De la misma manera, los artistas generativos establecen reglas que permiten que la obra evolucione dinámicamente.
+
+En su conferencia en RECONVENE 2023, Heim mostró proyectos donde el sonido se traduce en imágenes o los dibujos se convierten en música en tiempo real. Su visión apunta a un futuro donde el arte interactivo y la realidad virtual sean fundamentales.
+
+Esta idea conecta con mi proyecto de curso, donde investigo cómo aplicar el diseño generativo a la formación de palabras y la manipulación de sonido con P5.js. Me interesa explorar cómo establecer reglas que permitan resultados dinámicos y únicos según la interacción del usuario. La propuesta de Heim me inspira a seguir explorando experiencias interactivas que evolucionen en tiempo real.
