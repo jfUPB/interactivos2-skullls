@@ -15,21 +15,23 @@ al ser un evento unico es mas facil poder contar con recuerdos mas personalizado
 
 ¿Cómo se conecta la narrativa con la experiencia?
 La sinestesia se vuelve tangible al traducir la música en imágenes expresivas y humanas, reforzando la conexión emocional entre los sonidos y el público.
+![image](https://github.com/user-attachments/assets/5589e8f6-b698-451a-9c94-b63d403bec9f)
+
 
 ¿Qué tipo de dispositivos vas a utilizar?
-Un proyector o pantallas, cámaras para capturar expresiones y movimientos, micrófonos para analizar el sonido y un dispositivo de control remoto.
+Un proyector o pantallas, celulares para capturar expresiones y movimientos, micrófonos para analizar el sonido.
 
 ¿Qué tipo de datos vas a capturar?
-Sonido en vivo, ritmo, volumen, expresiones faciales y movimientos del público.
+Sonido en vivo, expresiones faciales y movimientos del público.
 
 ¿Cómo se conectan esos datos con el concepto y la narrativa?
 La música y la reacción del público moldean las visuales, haciendo que la experiencia sea interactiva y única en cada presentación.
 
 ¿Qué tipo de control remoto vas a utilizar?
-Una interfaz que permita ajustar parámetros visuales en tiempo real, como intensidad, velocidad de transformación y efectos gráficos.
+EL celular con una interfaz que permita ajustar parámetros visuales en tiempo real, como intensidad, velocidad de transformación y efectos gráficos.
 
 ¿Qué tipo de interacción en tiempo real te gustaría tener?
-Que las visuales respondan directamente a la música y al público, haciendo que su energía modifique la experiencia.
+Que las visuales respondan directamente a la música y al público, haciendo que su energía modifique todos los visuales.
 
 ¿Qué tipo de contenido en tiempo real te gustaría generar?
 Imágenes dinámicas de rostros y figuras humanas que se deforman y transforman según el sonido y la interacción del público.
