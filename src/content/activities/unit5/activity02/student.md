@@ -15,3 +15,6 @@ en el after life se colocan estas visuales, lo que quiero hacer es poder interve
 quedando algo asi 
 
 ![hq720](https://github.com/user-attachments/assets/28e40d63-3e2e-4f7c-83da-720383aeb8d6)
+
+Dentro de todo quiero que haya una conexion tal que asi
+![image](https://github.com/user-attachments/assets/b1f3a299-30c9-450b-820a-ea61842681c9)
