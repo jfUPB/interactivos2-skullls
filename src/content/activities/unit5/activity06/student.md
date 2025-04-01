@@ -1,0 +1,1 @@
+Pienso que una experimentación rápida como actividades cortas que permitan probar pequeños prototipos desde el principio ayudarían a consolidar mejor la idea antes de desarrollar un concepto más complejo, pero como tal la estructura del curso me gusta mucho
