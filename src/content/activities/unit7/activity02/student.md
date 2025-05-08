@@ -1,6 +1,4 @@
-# 🧠 Bitácora – Actividad 02: Implementando el núcleo del proceso y la simulación
-
-## 🔄 Lógica del Proceso
+## Lógica del Proceso
 
 El núcleo del sistema es un motor de arte generativo que:
 - Analiza cuadro a cuadro el video cargado por el usuario.
