@@ -1,6 +1,8 @@
 Configuración del servidor (server.js)
 El servidor está configurado con Express y Socket.IO para escuchar conexiones de los clientes y gestionar roles de host y guest automáticamente.
 
+![image](https://github.com/user-attachments/assets/5f2c27db-2465-4de3-8534-fcdb5ef9d9ad)
+
 Código relevante del servidor
 ```js
 const express = require('express');
