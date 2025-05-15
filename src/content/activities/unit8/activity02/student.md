@@ -1,12 +1,9 @@
 VisualSync – Arte generativo a partir de música y video
 
-⸻
-
 Introducción breve
 
 Este proyecto es una aplicación interactiva que transforma videos enviados por los usuarios en composiciones visuales generativas. A partir de las propiedades del video y el sonido, se crean visuales únicos que reaccionan en tiempo real, combinando arte y tecnología en una experiencia audiovisual.
 
-⸻
 
 Concepto y narrativa
 
@@ -14,7 +11,7 @@ La idea nace del interés por fusionar música y arte visual de una forma person
 
 El proyecto busca explorar cómo los datos invisibles de un video (como la intensidad o el brillo) pueden ser usados como materia prima para crear experiencias visuales únicas.
 
-⸻
+
 
 Diseño técnico – Modelo IPO
 
@@ -33,14 +30,13 @@ Outputs
 	•	Video final: el resultado visual generado con base en los inputs
 	•	Sonido: el audio original o modificado, acompañando los visuales
 
-⸻
+
 
 Video demostrativo
 
-[Video embebido aquí]
-Este será el video donde se muestre el prototipo en acción.
 
-⸻
+
+
 
 Tecnologías utilizadas
 	•	p5.js: para generar las visuales interactivas
@@ -48,7 +44,7 @@ Tecnologías utilizadas
 	•	HTML/CSS: estructura básica del entorno de la app
 	•	Herramientas de edición: para el montaje y limpieza del video final
 
-⸻
+
 
 Tutorial paso a paso para reproducir el proyecto
 	1.	Abrí el entorno de desarrollo (p5.js o un editor como Visual Studio Code).
