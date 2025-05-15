@@ -4,4 +4,7 @@ Grabé una sesión corta (menos de 2 minutos), donde se ve cómo se cargan los d
 
 Luego pasé el video a Capcut para hacer una edición básica: recorté el inicio y el final para dejar solo la parte más clara del proceso. No agregué títulos ni efectos extra, ya que lo importante era mostrar el funcionamiento.
 
-El video ya está listo y lo tengo en formato MP4 para incluirlo en la documentación final. También puedo subirlo a YouTube o Drive si hace falta incrustarlo.
+
+
+https://github.com/user-attachments/assets/c03a7626-fbe6-493b-bc04-9ec6bcb7a47f
+
